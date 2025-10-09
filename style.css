@@ -19,6 +19,10 @@
 .myclass {
     color: magenta;
 }
+
+#box {
+    background-color:blue;
+}
 /* h1 {
     color : maroon;
 }
