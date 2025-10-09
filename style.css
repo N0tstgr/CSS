@@ -1,4 +1,21 @@
-h1 {
+* {
+    color:skyblue;
+}
+
+#heading1 {
+    color: rgb(72, 255, 0);
+}
+
+
+#heading2 {
+    color : brown;
+}
+
+#heading3 {
+    color: chocolate;
+}
+
+/* h1 {
     color : maroon;
 }
 
@@ -11,9 +28,9 @@ button {
     background-color: rgb(128, 0, 122);
 }
 body {
-    background-color: rgb(66, 245, 90)
+    background-color: #BE97C6;
 }
 
 h2 {
     color: rgb(192, 21, 106);
-}
+} */
