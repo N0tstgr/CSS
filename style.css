@@ -1,4 +1,4 @@
-* {
+/* * {
     color:skyblue;
 }
 
@@ -18,10 +18,15 @@
 
 .myclass {
     color: magenta;
-}
+} */
 
+
+h1, h2, h3 {
+    color: red;
+}
 #box {
     background-color:blue;
+
 }
 
 button {
