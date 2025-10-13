@@ -8,9 +8,26 @@ h2 {
   text-align:center;
   text-decoration: underline;
   text-decoration:overline;
-  text-decoration: line-through;
+  text-decoration:  green dashed underline;
 }
 
 a {
     background-color: greenyellow;
+    text-decoration:none;
+}
+
+#h1 {
+  font-weight: 200;
+}
+
+#h2 {
+  font-weight: 400;
+}
+
+#h3 {
+  font-weight: 600;
+}
+
+#h4 {
+  font-weight: 800;
 }
