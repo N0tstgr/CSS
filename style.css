@@ -1,3 +1,9 @@
 p  {
-text-align: right;
+text-align: end;
+background-color: royalblue;
+}
+
+
+h2 {
+  text-align:center;
 }
