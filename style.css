@@ -6,4 +6,11 @@ background-color: royalblue;
 
 h2 {
   text-align:center;
+  text-decoration: underline;
+  text-decoration:overline;
+  text-decoration: line-through;
+}
+
+a {
+    background-color: greenyellow;
 }
